@@ -2,13 +2,15 @@ const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const authRoute = require("./backend/routes/auth")
-dotenv.config();
+const productRoute = require("./backend/routes/product")
+dotenv.config(); //load
 
 const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use("/api/auth", authRoute);
+app.use("/api/products" , productRoute);
 
 mongoose.connect(process.env.MONGO_URL)
 .then(()=>{
