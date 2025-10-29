@@ -29,7 +29,7 @@ Currently, the **backend is fully implemented**, and the frontend will be integr
 - **Express.js** – API server
 - **MongoDB** – Database
 - **Next.js** – Frontend framework (to be integrated)
-- **Redis** – (Optional) caching or session storage
+- **Redis** –  caching or session storage
 - **Nodemon** – Auto-restart server during development
 - **Dotenv** – Environment variable management
 
