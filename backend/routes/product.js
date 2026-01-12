@@ -4,7 +4,7 @@ const verifyAuth = require("../middlewares/authMiddleware")
 const express = require("express");
 
 const router = express.Router();
-router.post("/",verifyAdmin,verifyAuth,handleCreateProduct);
+router.post("/",verifyAuth,verifyAdmin,handleCreateProduct);
 router.get("/",handleGetProduct);
 router.get("/:id", handleSingleProduct);
 router.put("/:id",verifyAuth,verifyAdmin, handleUpdateProduct);
