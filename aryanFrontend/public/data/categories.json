@@ -1,0 +1,1825 @@
+{
+    "groceries": {
+        "categories": [
+            {
+                "id": "1",
+                "name": "Biscuits, Drinks & Packaged Foods",
+                "subcategories": [
+                    {
+                        "id": "1001",
+                        "name": "Chips & Namkeens"
+                    },
+                    {
+                        "id": "1002",
+                        "name": "Biscuits & Cookies"
+                    },
+                    {
+                        "id": "1003",
+                        "name": "Chocolates & Candies"
+                    },
+                    {
+                        "id": "1004",
+                        "name": "Indian Sweets"
+                    },
+                    {
+                        "id": "1005",
+                        "name": "Drinks & Juices"
+                    },
+                    {
+                        "id": "1006",
+                        "name": "Breakfast Cereals"
+                    },
+                    {
+                        "id": "1007",
+                        "name": "Noodles, Pasta & Vermicelli"
+                    },
+                    {
+                        "id": "1008",
+                        "name": "Ready To Cook & Eat"
+                    },
+                    {
+                        "id": "1009",
+                        "name": "Spread, Sauces & Ketchup"
+                    },
+                    {
+                        "id": "1010",
+                        "name": "Pickles, Chutney & Flavouring"
+                    },
+                    {
+                        "id": "1011",
+                        "name": "Tea & Coffee"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Fruits & Vegetables",
+                "subcategories": [
+                    {
+                        "id": "2001",
+                        "name": "Fresh Fruits"
+                    },
+                    {
+                        "id": "2002",
+                        "name": "Basic Vegetables"
+                    },
+                    {
+                        "id": "2003",
+                        "name": "Roots, Herbs & Others"
+                    },
+                    {
+                        "id": "2004",
+                        "name": "Premium Fruits & Vegetables"
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Cooking Essentials",
+                "subcategories": [
+                    {
+                        "id": "3001",
+                        "name": "Atta, Flours & Sooji"
+                    },
+                    {
+                        "id": "3002",
+                        "name": "Dals & Pulses"
+                    },
+                    {
+                        "id": "3003",
+                        "name": "Rice"
+                    },
+                    {
+                        "id": "3004",
+                        "name": "Sabudana, Poha & Murmura"
+                    },
+                    {
+                        "id": "3005",
+                        "name": "Edible Oils"
+                    },
+                    {
+                        "id": "3006",
+                        "name": "Masala, Spices & Mukhwas"
+                    },
+                    {
+                        "id": "3007",
+                        "name": "Salt, Sugar & Jaggery"
+                    },
+                    {
+                        "id": "3008",
+                        "name": "Wheat & Soya"
+                    },
+                    {
+                        "id": "3009",
+                        "name": "Ghee"
+                    },
+                    {
+                        "id": "3010",
+                        "name": "Dry Fruits & Nuts"
+                    },
+                    {
+                        "id": "3011",
+                        "name": "Millets & Organic"
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Combo Offers",
+                "subcategories": []
+            },
+            {
+                "id": "5",
+                "name": "Dairy & Bakery",
+                "subcategories": [
+                    {
+                        "id": "5001",
+                        "name": "Milk & Milk Products"
+                    },
+                    {
+                        "id": "5002",
+                        "name": "Cheese, Paneer & Tofu"
+                    },
+                    {
+                        "id": "5003",
+                        "name": "Batter & Chutney"
+                    },
+                    {
+                        "id": "5004",
+                        "name": "Toast & Khari"
+                    },
+                    {
+                        "id": "5005",
+                        "name": "Cakes & Muffins"
+                    },
+                    {
+                        "id": "5006",
+                        "name": "Breads & Chapatis"
+                    },
+                    {
+                        "id": "5007",
+                        "name": "Bakery & Snacks"
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Personal Care",
+                "subcategories": [
+                    {
+                        "id": "6001",
+                        "name": "Hair Care"
+                    },
+                    {
+                        "id": "6002",
+                        "name": "Bath & Hand Wash"
+                    },
+                    {
+                        "id": "6003",
+                        "name": "Oral Care"
+                    },
+                    {
+                        "id": "6004",
+                        "name": "Skin Care"
+                    },
+                    {
+                        "id": "6005",
+                        "name": "Feminine Hygiene"
+                    },
+                    {
+                        "id": "6006",
+                        "name": "Men's Grooming"
+                    },
+                    {
+                        "id": "6007",
+                        "name": "Deo & Fragrances"
+                    },
+                    {
+                        "id": "6008",
+                        "name": "Health & Wellness"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Beauty",
+                "subcategories": [
+                    {
+                        "id": "7001",
+                        "name": "Face"
+                    },
+                    {
+                        "id": "7002",
+                        "name": "Nails & Lips"
+                    },
+                    {
+                        "id": "7003",
+                        "name": "Eyes"
+                    },
+                    {
+                        "id": "7004",
+                        "name": "Beauty Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Mom & Baby Care",
+                "subcategories": [
+                    {
+                        "id": "8001",
+                        "name": "Diapers & Wipes"
+                    },
+                    {
+                        "id": "8002",
+                        "name": "Bath, Hygiene & Grooming"
+                    },
+                    {
+                        "id": "8003",
+                        "name": "Food & Feeding"
+                    },
+                    {
+                        "id": "8004",
+                        "name": "Bedding, Toys & Accessories"
+                    },
+                    {
+                        "id": "8005",
+                        "name": "Health & Wellness"
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "name": "Home",
+                "subcategories": [
+                    {
+                        "id": "9001",
+                        "name": "Dishwash"
+                    },
+                    {
+                        "id": "9002",
+                        "name": "Detergents & Cleaners"
+                    },
+                    {
+                        "id": "9003",
+                        "name": "Fresheners & Repellents"
+                    },
+                    {
+                        "id": "9004",
+                        "name": "Home & Cleaning Tools"
+                    },
+                    {
+                        "id": "9005",
+                        "name": "Pooja Needs"
+                    },
+                    {
+                        "id": "9006",
+                        "name": "Basic Electricals"
+                    },
+                    {
+                        "id": "9007",
+                        "name": "Shoe Care"
+                    },
+                    {
+                        "id": "9008",
+                        "name": "Furnishing & Personal Wear"
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "name": "Bags & Travel Luggage",
+                "subcategories": []
+            },
+            {
+                "id": "11",
+                "name": "Furniture",
+                "subcategories": []
+            },
+            {
+                "id": "12",
+                "name": "Kitchenware",
+                "subcategories": [
+                    {
+                        "id": "12001",
+                        "name": "Cookers & Steamers"
+                    },
+                    {
+                        "id": "12002",
+                        "name": "Gas Stove"
+                    },
+                    {
+                        "id": "12003",
+                        "name": "Pots & Pans"
+                    },
+                    {
+                        "id": "12004",
+                        "name": "Containers & Storage"
+                    },
+                    {
+                        "id": "12005",
+                        "name": "Flask, Bottle & Tiffin Boxes"
+                    },
+                    {
+                        "id": "12006",
+                        "name": "Cutting & Chopping"
+                    },
+                    {
+                        "id": "12007",
+                        "name": "Kitchen Tools"
+                    },
+                    {
+                        "id": "12008",
+                        "name": "Bakeware"
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "name": "Tableware",
+                "subcategories": [
+                    {
+                        "id": "13001",
+                        "name": "Dining"
+                    },
+                    {
+                        "id": "13002",
+                        "name": "Serveware"
+                    },
+                    {
+                        "id": "13003",
+                        "name": "Cups, Mugs & More"
+                    },
+                    {
+                        "id": "13004",
+                        "name": "Glassware & Drinkware"
+                    },
+                    {
+                        "id": "13005",
+                        "name": "Cutlery"
+                    },
+                    {
+                        "id": "13006",
+                        "name": "Barware"
+                    },
+                    {
+                        "id": "13007",
+                        "name": "Table Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "name": "School, Office & Stationery",
+                "subcategories": [
+                    {
+                        "id": "14001",
+                        "name": "Notebooks & Paper Products"
+                    },
+                    {
+                        "id": "14002",
+                        "name": "Writing Instruments & Accessories"
+                    },
+                    {
+                        "id": "14003",
+                        "name": "School Supplies"
+                    },
+                    {
+                        "id": "14004",
+                        "name": "Office Supplies"
+                    },
+                    {
+                        "id": "14005",
+                        "name": "Party Accessories"
+                    },
+                    {
+                        "id": "14006",
+                        "name": "Art, Craft & Hobby"
+                    },
+                    {
+                        "id": "14007",
+                        "name": "Children's Books"
+                    },
+                    {
+                        "id": "14008",
+                        "name": "School Textbooks"
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "name": "Disposables",
+                "subcategories": [
+                    {
+                        "id": "15001",
+                        "name": "Food Wrapping Essentials"
+                    },
+                    {
+                        "id": "15002",
+                        "name": "Home Hygiene"
+                    },
+                    {
+                        "id": "15003",
+                        "name": "Plates & Cutlery"
+                    },
+                    {
+                        "id": "15004",
+                        "name": "Tissues & Napkins"
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "name": "Crafts of India",
+                "subcategories": [
+                    {
+                        "id": "16001",
+                        "name": "Kitchenware"
+                    },
+                    {
+                        "id": "16002",
+                        "name": "Bathroom & Laundry Accessories"
+                    },
+                    {
+                        "id": "16003",
+                        "name": "Tableware"
+                    },
+                    {
+                        "id": "16004",
+                        "name": "Pooja Needs"
+                    },
+                    {
+                        "id": "16005",
+                        "name": "Art, Craft & Hobby"
+                    },
+                    {
+                        "id": "16006",
+                        "name": "Other Stationery"
+                    },
+                    {
+                        "id": "16007",
+                        "name": "Notebooks & Paper Products"
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "name": "Gifts & Hampers",
+                "subcategories": [
+                    {
+                        "id": "17001",
+                        "name": "Tea Gifts"
+                    },
+                    {
+                        "id": "17002",
+                        "name": "Chocolate Gifts"
+                    },
+                    {
+                        "id": "17003",
+                        "name": "Gourmet Gifts"
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "name": "Fashion Jewellery",
+                "subcategories": [
+                    {
+                        "id": "18001",
+                        "name": "Imitation Jewellery"
+                    },
+                    {
+                        "id": "18002",
+                        "name": "Handmade Jewellery"
+                    }
+                ]
+            }
+        ]
+    },
+    "fashion": {
+        "categories": [
+            {
+                "id": "20",
+                "name": "Men",
+                "subcategories": [
+                    {
+                        "id": "2001",
+                        "name": "Western Wear"
+                    },
+                    {
+                        "id": "2002",
+                        "name": "Inner Wear"
+                    },
+                    {
+                        "id": "2003",
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "id": "2004",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2005",
+                        "name": "Night & Lounge Wear"
+                    },
+                    {
+                        "id": "2006",
+                        "name": "Night & Loungewear"
+                    },
+                    {
+                        "id": "2007",
+                        "name": "Clothing Accessories"
+                    },
+                    {
+                        "id": "2008",
+                        "name": "Watches"
+                    },
+                    {
+                        "id": "2009",
+                        "name": "Eyewear"
+                    },
+                    {
+                        "id": "2010",
+                        "name": "Bags, Belts & Wallets"
+                    },
+                    {
+                        "id": "2011",
+                        "name": "Gemstones Coins & Bars"
+                    },
+                    {
+                        "id": "2012",
+                        "name": "Fashion Jewellery"
+                    },
+                    {
+                        "id": "2013",
+                        "name": "Silver Jewellery"
+                    },
+                    {
+                        "id": "2014",
+                        "name": "Accessories"
+                    },
+                    {
+                        "id": "2015",
+                        "name": "Timewear"
+                    },
+                    {
+                        "id": "2016",
+                        "name": "Watch Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "21",
+                "name": "Women",
+                "subcategories": [
+                    {
+                        "id": "2101",
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "id": "2102",
+                        "name": "Western Wear"
+                    },
+                    {
+                        "id": "2103",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2104",
+                        "name": "Bags, Belts & Wallets"
+                    },
+                    {
+                        "id": "2105",
+                        "name": "Watches"
+                    },
+                    {
+                        "id": "2106",
+                        "name": "Eyewear"
+                    },
+                    {
+                        "id": "2107",
+                        "name": "Lingerie & Innerwear"
+                    },
+                    {
+                        "id": "2108",
+                        "name": "Night & Lounge Wear"
+                    },
+                    {
+                        "id": "2109",
+                        "name": "Night & Loungewear"
+                    },
+                    {
+                        "id": "2110",
+                        "name": "Clothing Accessories"
+                    },
+                    {
+                        "id": "2111",
+                        "name": "Gemstones Coins & Bars"
+                    },
+                    {
+                        "id": "2112",
+                        "name": "Silver Jewellery"
+                    },
+                    {
+                        "id": "2113",
+                        "name": "Fusion Wear"
+                    },
+                    {
+                        "id": "2114",
+                        "name": "Accessories"
+                    },
+                    {
+                        "id": "2115",
+                        "name": "Fashion Jewellery"
+                    },
+                    {
+                        "id": "2116",
+                        "name": "Watch Accessories"
+                    },
+                    {
+                        "id": "2117",
+                        "name": "Timewear"
+                    }
+                ]
+            },
+            {
+                "id": "22",
+                "name": "Handloom & Handicraft",
+                "subcategories": []
+            },
+            {
+                "id": "23",
+                "name": "Boys",
+                "subcategories": [
+                    {
+                        "id": "2301",
+                        "name": "Western Wear"
+                    },
+                    {
+                        "id": "2302",
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "id": "2303",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2304",
+                        "name": "Night & Loungewear"
+                    },
+                    {
+                        "id": "2305",
+                        "name": "Inner Wear"
+                    },
+                    {
+                        "id": "2306",
+                        "name": "Clothing Accessories"
+                    },
+                    {
+                        "id": "2307",
+                        "name": "Bags, Belts & Wallets"
+                    },
+                    {
+                        "id": "2308",
+                        "name": "Watches"
+                    },
+                    {
+                        "id": "2309",
+                        "name": "Eyewear"
+                    },
+                    {
+                        "id": "2310",
+                        "name": "Watch Accessories"
+                    },
+                    {
+                        "id": "2311",
+                        "name": "Accessories"
+                    },
+                    {
+                        "id": "2312",
+                        "name": "Inner & Nightwear"
+                    }
+                ]
+            },
+            {
+                "id": "24",
+                "name": "Girls",
+                "subcategories": [
+                    {
+                        "id": "2401",
+                        "name": "Western Wear"
+                    },
+                    {
+                        "id": "2402",
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "id": "2403",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2404",
+                        "name": "Night & Loungewear"
+                    },
+                    {
+                        "id": "2405",
+                        "name": "Inner Wear"
+                    },
+                    {
+                        "id": "2406",
+                        "name": "Clothing Accessories"
+                    },
+                    {
+                        "id": "2407",
+                        "name": "Bags, Belts & Wallets"
+                    },
+                    {
+                        "id": "2408",
+                        "name": "Watches"
+                    },
+                    {
+                        "id": "2409",
+                        "name": "Eyewear"
+                    },
+                    {
+                        "id": "2410",
+                        "name": "Watch Accessories"
+                    },
+                    {
+                        "id": "2411",
+                        "name": "Accessories"
+                    },
+                    {
+                        "id": "2412",
+                        "name": "Bags, Belts & Wallets"
+                    }
+                ]
+            },
+            {
+                "id": "25",
+                "name": "Infants",
+                "subcategories": [
+                    {
+                        "id": "2501",
+                        "name": "Western Wear"
+                    },
+                    {
+                        "id": "2502",
+                        "name": "Clothing Accessories"
+                    },
+                    {
+                        "id": "2503",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2504",
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "id": "2505",
+                        "name": "Night & Loungewear"
+                    }
+                ]
+            },
+            {
+                "id": "26",
+                "name": "Tech",
+                "subcategories": [
+                    {
+                        "id": "2601",
+                        "name": "Smart Wearables"
+                    }
+                ]
+            },
+            {
+                "id": "27",
+                "name": "Crafts of India",
+                "subcategories": [
+                    {
+                        "id": "2701",
+                        "name": "Footwear"
+                    },
+                    {
+                        "id": "2702",
+                        "name": "Women"
+                    }
+                ]
+            }
+        ]
+    },
+    "electronics": {
+        "categories": [
+            {
+                "id": "30",
+                "name": "Mobiles & Tablets",
+                "subcategories": [
+                    {
+                        "id": "3001",
+                        "name": "Mobiles"
+                    },
+                    {
+                        "id": "3002",
+                        "name": "Tablets & eReaders"
+                    },
+                    {
+                        "id": "3003",
+                        "name": "Charger & Powerbanks"
+                    },
+                    {
+                        "id": "3004",
+                        "name": "Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "31",
+                "name": "Personal Care & Grooming Appliances",
+                "subcategories": [
+                    {
+                        "id": "3101",
+                        "name": "Shavers & Trimmers"
+                    },
+                    {
+                        "id": "3102",
+                        "name": "Hair Dryers & Stylers"
+                    },
+                    {
+                        "id": "3103",
+                        "name": "Fitness & Massagers"
+                    },
+                    {
+                        "id": "3104",
+                        "name": "Health & Oral Care"
+                    }
+                ]
+            },
+            {
+                "id": "32",
+                "name": "Audio & Smart Home",
+                "subcategories": [
+                    {
+                        "id": "3201",
+                        "name": "Headphones & Earbuds"
+                    },
+                    {
+                        "id": "3202",
+                        "name": "Bluetooth & Smart Speakers"
+                    },
+                    {
+                        "id": "3203",
+                        "name": "Karaoke & Radio"
+                    },
+                    {
+                        "id": "3204",
+                        "name": "Smart Home Devices"
+                    }
+                ]
+            },
+            {
+                "id": "33",
+                "name": "Computers & Accessories",
+                "subcategories": [
+                    {
+                        "id": "3301",
+                        "name": "Laptops & Desktops"
+                    },
+                    {
+                        "id": "3302",
+                        "name": "Printers & Inks"
+                    },
+                    {
+                        "id": "3303",
+                        "name": "Storage"
+                    },
+                    {
+                        "id": "3304",
+                        "name": "IT Peripherals & Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "34",
+                "name": "Kitchen Appliances",
+                "subcategories": [
+                    {
+                        "id": "3401",
+                        "name": "Breakfast Appliances"
+                    },
+                    {
+                        "id": "3402",
+                        "name": "Cooking Appliances"
+                    },
+                    {
+                        "id": "3403",
+                        "name": "Juicers & Mixer Grinders"
+                    },
+                    {
+                        "id": "3404",
+                        "name": "Juicer Mixer Grinders"
+                    },
+                    {
+                        "id": "3405",
+                        "name": "Chimneys & Hobs"
+                    }
+                ]
+            },
+            {
+                "id": "35",
+                "name": "TV & Home Entertainment",
+                "subcategories": [
+                    {
+                        "id": "3501",
+                        "name": "Televisions"
+                    },
+                    {
+                        "id": "3502",
+                        "name": "Television Accessories"
+                    },
+                    {
+                        "id": "3503",
+                        "name": "Home Audio"
+                    }
+                ]
+            },
+            {
+                "id": "36",
+                "name": "Gaming",
+                "subcategories": []
+            },
+            {
+                "id": "37",
+                "name": "Home Appliances",
+                "subcategories": [
+                    {
+                        "id": "3701",
+                        "name": "Fans & Air Coolers"
+                    },
+                    {
+                        "id": "3702",
+                        "name": "Water Purifiers"
+                    },
+                    {
+                        "id": "3703",
+                        "name": "Geysers & Heaters"
+                    },
+                    {
+                        "id": "3704",
+                        "name": "Vacuum Cleaners"
+                    },
+                    {
+                        "id": "3705",
+                        "name": "Air Purifiers"
+                    },
+                    {
+                        "id": "3706",
+                        "name": "Invertors & Stabilizers"
+                    },
+                    {
+                        "id": "3707",
+                        "name": "Sewing Machines"
+                    }
+                ]
+            },
+            {
+                "id": "38",
+                "name": "Wearables & Smart Tech",
+                "subcategories": [
+                    {
+                        "id": "3801",
+                        "name": "Smart Watches"
+                    },
+                    {
+                        "id": "3802",
+                        "name": "Smart Watch Accessories"
+                    },
+                    {
+                        "id": "3803",
+                        "name": "Smart Glasses & VR Headset"
+                    }
+                ]
+            },
+            {
+                "id": "39",
+                "name": "Camera & Musical Instruments",
+                "subcategories": [
+                    {
+                        "id": "3901",
+                        "name": "Camera"
+                    },
+                    {
+                        "id": "3902",
+                        "name": "Accessories"
+                    },
+                    {
+                        "id": "3903",
+                        "name": "Musical Instruments"
+                    }
+                ]
+            },
+            {
+                "id": "40",
+                "name": "Large Appliances",
+                "subcategories": [
+                    {
+                        "id": "4001",
+                        "name": "Air Conditioners"
+                    },
+                    {
+                        "id": "4002",
+                        "name": "Refrigerators"
+                    },
+                    {
+                        "id": "4003",
+                        "name": "Washing Machines"
+                    },
+                    {
+                        "id": "4004",
+                        "name": "Microwave OTG & Air Fryers"
+                    }
+                ]
+            }
+        ]
+    },
+    "home_lifestyle": {
+        "categories": [
+            {
+                "id": "50",
+                "name": "Kitchenware",
+                "subcategories": [
+                    {
+                        "id": "5001",
+                        "name": "Cookware"
+                    },
+                    {
+                        "id": "5002",
+                        "name": "Gas Stove"
+                    },
+                    {
+                        "id": "5003",
+                        "name": "Containers & Storage"
+                    },
+                    {
+                        "id": "5004",
+                        "name": "Kitchen Tools"
+                    },
+                    {
+                        "id": "5005",
+                        "name": "Bakeware"
+                    }
+                ]
+            },
+            {
+                "id": "51",
+                "name": "Home Furnishing",
+                "subcategories": [
+                    {
+                        "id": "5101",
+                        "name": "Bedding"
+                    },
+                    {
+                        "id": "5102",
+                        "name": "Curtains & Accessories"
+                    },
+                    {
+                        "id": "5103",
+                        "name": "Bathroom Linen"
+                    },
+                    {
+                        "id": "5104",
+                        "name": "Kitchen Linens"
+                    },
+                    {
+                        "id": "5105",
+                        "name": "Cushions & Cushion Covers"
+                    },
+                    {
+                        "id": "5106",
+                        "name": "Slipcovers & Diwan Set"
+                    }
+                ]
+            },
+            {
+                "id": "52",
+                "name": "Sports & Fitness",
+                "subcategories": [
+                    {
+                        "id": "5201",
+                        "name": "Outdoor"
+                    },
+                    {
+                        "id": "5202",
+                        "name": "Indoor"
+                    }
+                ]
+            },
+            {
+                "id": "53",
+                "name": "Bags & Travel Luggage",
+                "subcategories": [
+                    {
+                        "id": "5301",
+                        "name": "Trolleys & Suitcases"
+                    },
+                    {
+                        "id": "5302",
+                        "name": "Backpacks & Travel Luggage"
+                    },
+                    {
+                        "id": "5303",
+                        "name": "Travel Accessories"
+                    },
+                    {
+                        "id": "5304",
+                        "name": "Shopping & Other Bags"
+                    }
+                ]
+            },
+            {
+                "id": "54",
+                "name": "Bathroom & Laundry Accessories",
+                "subcategories": [
+                    {
+                        "id": "5401",
+                        "name": "Laundry Essentials"
+                    },
+                    {
+                        "id": "5402",
+                        "name": "Buckets, Mugs,Tubs & Stool"
+                    },
+                    {
+                        "id": "5403",
+                        "name": "Bathroom Accessories"
+                    },
+                    {
+                        "id": "5404",
+                        "name": "Hooks, Clips & Hangers"
+                    }
+                ]
+            },
+            {
+                "id": "55",
+                "name": "Home Decor",
+                "subcategories": [
+                    {
+                        "id": "5501",
+                        "name": "Lights"
+                    },
+                    {
+                        "id": "5502",
+                        "name": "Home Decor Accents"
+                    },
+                    {
+                        "id": "5503",
+                        "name": "Home Fragrances"
+                    },
+                    {
+                        "id": "5504",
+                        "name": "Artificial Flora & Vases"
+                    },
+                    {
+                        "id": "5505",
+                        "name": "Decorative Stickers"
+                    },
+                    {
+                        "id": "5506",
+                        "name": "Festive Decor and Gifting"
+                    },
+                    {
+                        "id": "5507",
+                        "name": "Artwork"
+                    },
+                    {
+                        "id": "5508",
+                        "name": "Wind Chimes & Dream Catchers"
+                    },
+                    {
+                        "id": "5509",
+                        "name": "Photo Frames"
+                    },
+                    {
+                        "id": "5510",
+                        "name": "Candle Holders"
+                    },
+                    {
+                        "id": "5511",
+                        "name": "Mirrors"
+                    },
+                    {
+                        "id": "5512",
+                        "name": "Clocks & Wall Decor"
+                    }
+                ]
+            },
+            {
+                "id": "56",
+                "name": "Prayer & Spiritual Needs",
+                "subcategories": [
+                    {
+                        "id": "5601",
+                        "name": "Lamp Oil"
+                    },
+                    {
+                        "id": "5602",
+                        "name": "Agarbatti"
+                    },
+                    {
+                        "id": "5603",
+                        "name": "Camphor"
+                    },
+                    {
+                        "id": "5604",
+                        "name": "Dhoop"
+                    },
+                    {
+                        "id": "5605",
+                        "name": "Prayer Implements"
+                    },
+                    {
+                        "id": "5606",
+                        "name": "Lanterns"
+                    }
+                ]
+            },
+            {
+                "id": "57",
+                "name": "Feng Shui",
+                "subcategories": []
+            },
+            {
+                "id": "58",
+                "name": "Tableware",
+                "subcategories": [
+                    {
+                        "id": "5801",
+                        "name": "Serveware"
+                    },
+                    {
+                        "id": "5802",
+                        "name": "Cups, Mugs & more"
+                    },
+                    {
+                        "id": "5803",
+                        "name": "Glassware & Drinkware"
+                    },
+                    {
+                        "id": "5804",
+                        "name": "Barware"
+                    },
+                    {
+                        "id": "5805",
+                        "name": "Table Accessories"
+                    }
+                ]
+            },
+            {
+                "id": "59",
+                "name": "Furniture",
+                "subcategories": [
+                    {
+                        "id": "5901",
+                        "name": "Seating"
+                    },
+                    {
+                        "id": "5902",
+                        "name": "Mattress"
+                    },
+                    {
+                        "id": "5903",
+                        "name": "Storage & Cabinets"
+                    },
+                    {
+                        "id": "5904",
+                        "name": "Tables"
+                    },
+                    {
+                        "id": "5905",
+                        "name": "Outdoor Furniture"
+                    },
+                    {
+                        "id": "5906",
+                        "name": "Kids Furniture"
+                    },
+                    {
+                        "id": "5907",
+                        "name": "Living & Dining"
+                    },
+                    {
+                        "id": "5908",
+                        "name": "Healthcare Furniture"
+                    },
+                    {
+                        "id": "5909",
+                        "name": "Sofas & Couches"
+                    },
+                    {
+                        "id": "5910",
+                        "name": "Dining Furniture"
+                    },
+                    {
+                        "id": "5911",
+                        "name": "Beds"
+                    },
+                    {
+                        "id": "5912",
+                        "name": "Bedroom & Others"
+                    },
+                    {
+                        "id": "5913",
+                        "name": "Bar Furniture"
+                    },
+                    {
+                        "id": "5914",
+                        "name": "Others"
+                    }
+                ]
+            },
+            {
+                "id": "60",
+                "name": "Toys & Games",
+                "subcategories": [
+                    {
+                        "id": "6001",
+                        "name": "Toy Vehicles & Ride-Ons"
+                    },
+                    {
+                        "id": "6002",
+                        "name": "Indoor & Board Games"
+                    },
+                    {
+                        "id": "6003",
+                        "name": "Learning & Education"
+                    },
+                    {
+                        "id": "6004",
+                        "name": "Outdoor Games"
+                    }
+                ]
+            },
+            {
+                "id": "61",
+                "name": "DIY",
+                "subcategories": []
+            },
+            {
+                "id": "62",
+                "name": "Auto Care",
+                "subcategories": []
+            },
+            {
+                "id": "63",
+                "name": "Garden & Outdoor",
+                "subcategories": [
+                    {
+                        "id": "6301",
+                        "name": "Gardening"
+                    },
+                    {
+                        "id": "6302",
+                        "name": "Insect & Animal Control"
+                    },
+                    {
+                        "id": "6303",
+                        "name": "Barbeque"
+                    },
+                    {
+                        "id": "6304",
+                        "name": "Outdoor Decor"
+                    }
+                ]
+            },
+            {
+                "id": "64",
+                "name": "Home Care",
+                "subcategories": [
+                    {
+                        "id": "6401",
+                        "name": "Clothesline & Clips"
+                    },
+                    {
+                        "id": "6402",
+                        "name": "Invertor Trolley"
+                    },
+                    {
+                        "id": "6403",
+                        "name": "Storage & Organisers"
+                    }
+                ]
+            },
+            {
+                "id": "65",
+                "name": "Crafts of India",
+                "subcategories": [
+                    {
+                        "id": "6501",
+                        "name": "Home Decor"
+                    },
+                    {
+                        "id": "6502",
+                        "name": "Indoor & Board Games"
+                    },
+                    {
+                        "id": "6503",
+                        "name": "Furnishing"
+                    },
+                    {
+                        "id": "6504",
+                        "name": "Home Furnishing"
+                    },
+                    {
+                        "id": "6505",
+                        "name": "Furniture"
+                    }
+                ]
+            },
+            {
+                "id": "66",
+                "name": "Books",
+                "subcategories": [
+                    {
+                        "id": "6601",
+                        "name": "Literature & Fiction"
+                    },
+                    {
+                        "id": "6602",
+                        "name": "Professional"
+                    },
+                    {
+                        "id": "6603",
+                        "name": "Non Fiction Books"
+                    },
+                    {
+                        "id": "6604",
+                        "name": "Specialised"
+                    }
+                ]
+            },
+            {
+                "id": "67",
+                "name": "Handloom & Handicraft",
+                "subcategories": [
+                    {
+                        "id": "6701",
+                        "name": "Home Furnishing"
+                    }
+                ]
+            },
+            {
+                "id": "68",
+                "name": "Pooja Needs",
+                "subcategories": []
+            },
+            {
+                "id": "69",
+                "name": "Pet Care",
+                "subcategories": [
+                    {
+                        "id": "6901",
+                        "name": "Birds"
+                    },
+                    {
+                        "id": "6902",
+                        "name": "Cats"
+                    },
+                    {
+                        "id": "6903",
+                        "name": "Dogs"
+                    },
+                    {
+                        "id": "6904",
+                        "name": "Others"
+                    }
+                ]
+            }
+        ]
+    },
+    "industrial_professional": {
+        "categories": [
+            {
+                "id": "70",
+                "name": "Auto Care",
+                "subcategories": [
+                    {
+                        "id": "7001",
+                        "name": "Car Electronics"
+                    },
+                    {
+                        "id": "7002",
+                        "name": "Car & Bike Parts"
+                    }
+                ]
+            },
+            {
+                "id": "71",
+                "name": "Industrial Supplies",
+                "subcategories": [
+                    {
+                        "id": "7101",
+                        "name": "Power & Hand Tools"
+                    },
+                    {
+                        "id": "7102",
+                        "name": "Medical Equipment, Furniture & Supplies"
+                    },
+                    {
+                        "id": "7103",
+                        "name": "Material Handling & Storage"
+                    },
+                    {
+                        "id": "7104",
+                        "name": "Test, Measure & Inspect"
+                    },
+                    {
+                        "id": "7105",
+                        "name": "Lab & Scientific Products"
+                    },
+                    {
+                        "id": "7106",
+                        "name": "Mechanical Supplies"
+                    },
+                    {
+                        "id": "7107",
+                        "name": "Retail Shop Display & Supplies"
+                    },
+                    {
+                        "id": "7108",
+                        "name": "Industrial Chemicals"
+                    }
+                ]
+            },
+            {
+                "id": "72",
+                "name": "Home Cleaning & Organisation",
+                "subcategories": [
+                    {
+                        "id": "7201",
+                        "name": "Cleaning Tools"
+                    },
+                    {
+                        "id": "7202",
+                        "name": "Closet Organization Systems"
+                    },
+                    {
+                        "id": "7203",
+                        "name": "Key Holders"
+                    }
+                ]
+            },
+            {
+                "id": "73",
+                "name": "Building Supplies & Tools",
+                "subcategories": [
+                    {
+                        "id": "7301",
+                        "name": "Kitchen Fixtures"
+                    },
+                    {
+                        "id": "7302",
+                        "name": "Bathroom Fixtures & Accessories"
+                    },
+                    {
+                        "id": "7303",
+                        "name": "Water Filtration & Softeners"
+                    },
+                    {
+                        "id": "7304",
+                        "name": "Tiles & Flooring"
+                    },
+                    {
+                        "id": "7305",
+                        "name": "Gating & Railing"
+                    }
+                ]
+            },
+            {
+                "id": "74",
+                "name": "Electrical & Electronic Components",
+                "subcategories": [
+                    {
+                        "id": "7401",
+                        "name": "Wires, Cables & Wall Plates"
+                    },
+                    {
+                        "id": "7402",
+                        "name": "Door Bells & Transformers"
+                    },
+                    {
+                        "id": "7403",
+                        "name": "Breakers, Load Centers & Fuses"
+                    },
+                    {
+                        "id": "7404",
+                        "name": "Robotics & Electronic Components"
+                    }
+                ]
+            },
+            {
+                "id": "75",
+                "name": "Carpentry",
+                "subcategories": [
+                    {
+                        "id": "7501",
+                        "name": "Furniture & Wood Treatment"
+                    },
+                    {
+                        "id": "7502",
+                        "name": "Doors & Windows"
+                    },
+                    {
+                        "id": "7503",
+                        "name": "Carpentry Adhesives"
+                    }
+                ]
+            },
+            {
+                "id": "76",
+                "name": "Security, Safety & Automation",
+                "subcategories": [
+                    {
+                        "id": "7601",
+                        "name": "Home Safety & Automation"
+                    },
+                    {
+                        "id": "7602",
+                        "name": "Personal Protective Equipment"
+                    }
+                ]
+            },
+            {
+                "id": "77",
+                "name": "Electrical",
+                "subcategories": [
+                    {
+                        "id": "7701",
+                        "name": "Mosquito Bat"
+                    }
+                ]
+            },
+            {
+                "id": "78",
+                "name": "Hardware & Plumbing",
+                "subcategories": [
+                    {
+                        "id": "7801",
+                        "name": "Shelf Brackets"
+                    }
+                ]
+            }
+        ]
+    },
+    "furniture": {
+        "categories": [
+            {
+                "id": "80",
+                "name": "Bedroom",
+                "subcategories": [
+                    {
+                        "id": "8001",
+                        "name": "Bedroom Storages"
+                    },
+                    {
+                        "id": "8002",
+                        "name": "Beds"
+                    },
+                    {
+                        "id": "8003",
+                        "name": "Chest of Drawers"
+                    },
+                    {
+                        "id": "8004",
+                        "name": "Mattresses"
+                    }
+                ]
+            },
+            {
+                "id": "81",
+                "name": "Dining Room & Bar",
+                "subcategories": [
+                    {
+                        "id": "8101",
+                        "name": "Bar Furniture"
+                    },
+                    {
+                        "id": "8102",
+                        "name": "Dining Chairs"
+                    },
+                    {
+                        "id": "8103",
+                        "name": "Dining Storage"
+                    },
+                    {
+                        "id": "8104",
+                        "name": "Dining Tables & Sets"
+                    }
+                ]
+            },
+            {
+                "id": "82",
+                "name": "Kids Room",
+                "subcategories": [
+                    {
+                        "id": "8201",
+                        "name": "Kids Seating"
+                    },
+                    {
+                        "id": "8202",
+                        "name": "Kids Tables"
+                    }
+                ]
+            },
+            {
+                "id": "83",
+                "name": "Living Room",
+                "subcategories": [
+                    {
+                        "id": "8301",
+                        "name": "Bean Bags"
+                    },
+                    {
+                        "id": "8302",
+                        "name": "Entertainment Unit"
+                    },
+                    {
+                        "id": "8303",
+                        "name": "Seating"
+                    },
+                    {
+                        "id": "8304",
+                        "name": "Shoe Racks"
+                    },
+                    {
+                        "id": "8305",
+                        "name": "Sofas"
+                    },
+                    {
+                        "id": "8306",
+                        "name": "Storages"
+                    },
+                    {
+                        "id": "8307",
+                        "name": "Tables"
+                    }
+                ]
+            },
+            {
+                "id": "84",
+                "name": "Outdoor Furniture",
+                "subcategories": [
+                    {
+                        "id": "8401",
+                        "name": "Outdoor Seating"
+                    },
+                    {
+                        "id": "8402",
+                        "name": "Outdoor Tables & Sets"
+                    },
+                    {
+                        "id": "8403",
+                        "name": "Swings & Hammocks"
+                    }
+                ]
+            },
+            {
+                "id": "85",
+                "name": "Work & Study",
+                "subcategories": [
+                    {
+                        "id": "8501",
+                        "name": "Chairs"
+                    },
+                    {
+                        "id": "8502",
+                        "name": "Storages"
+                    },
+                    {
+                        "id": "8503",
+                        "name": "Tables"
+                    }
+                ]
+            }
+        ]
+    },
+    "books_music_stationery": {
+        "categories": [
+            {
+                "id": "90",
+                "name": "Exam Central",
+                "subcategories": [
+                    {
+                        "id": "9001",
+                        "name": "Government Exams"
+                    }
+                ]
+            },
+            {
+                "id": "91",
+                "name": "Textbooks",
+                "subcategories": [
+                    {
+                        "id": "9101",
+                        "name": "Higher Education Textbooks"
+                    }
+                ]
+            }
+        ]
+    }
+}
